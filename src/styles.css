@@ -1,0 +1,24 @@
+/*estilo global (reset)*/
+*{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/*cabeçalho*/
+.header{
+    width: 1170px;
+    margin: 0 auto;
+}
+
+/*Seção*/
+
+.section{
+    width: 1170px;
+    margin: 0 auto;
+}
+
+/*Rodapé*/
+
+.footer{
+    width: 1170px;
+    margin: 0 auto;
+}
